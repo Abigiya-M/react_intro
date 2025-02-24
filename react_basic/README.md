@@ -1,8 +1,26 @@
-# React + Vite
+# Intro to React - Card Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple introduction to React, showcasing a reusable card component. The card component can be used to display various types of content, such as images, text, and buttons.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Reusable Card Component**: Create multiple instances of the card component with different content.
+- **Responsive Design**: The card adjusts its layout based on the screen size, ensuring a good user experience on both desktop and mobile devices.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js (v14 or later)
+- npm (Node package manager)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/intro-react-card.git
+   cd intro-react-card
+
